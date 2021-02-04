@@ -1,0 +1,50 @@
+{ 
+  "bg": "https://anatomiadapalavra.files.wordpress.com/2018/07/livro-fundacao-destaque.png?w=730",
+  "title": "Fundação",
+  "description": ["A Série da Fundação é uma obra de ficção científica escrita por Isaac Asimov que descreve em detalhes a história de um futuro distante e de como o destino de seus habitantes é influenciado por uma instituição chamada Fundação Enciclopédica. Ao escrever em forma de uma saga científica e enfatizar a procura da sabedoria, o objetivo de Asimov no primeiro livro da série era descrever em detalhes a queda de um Império Galático"],
+  "quetions": [
+    {"image":"https://images.unsplash.com/photo-1609945557891-8c7aa12de1d3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+    "title":"Questão 01",
+    "Description":"Descrição da questão numero #01",
+    "abswer":1,
+    "alternatives":[
+      "altenativa A",
+      "altenativa B",
+      "altenativa C",
+      "altenativa D"
+    ]
+
+    },
+
+
+    {"image":"https://images.unsplash.com/photo-1609945557891-8c7aa12de1d3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "title":"Questão 02",
+      "Description":"Descrição da questão numero #02",
+      "abswer":2,
+      "alternatives":[
+        "altenativa A",
+        "altenativa B",
+        "altenativa C",
+        "altenativa D"
+      ]
+  
+      }
+
+  ],
+  "external":[],
+  "theme":{
+    "colors":{
+      "primary":"#f71551",
+      "secundary": "#000000",
+      "mainBg":"#f71551",
+      "contrastText":"#0070ad",
+      "Error": "#d32f2f",
+      "Success":"#f70e6c"
+    }
+
+  },
+
+  "BorderRadious":"4px"
+
+
+}
